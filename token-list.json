@@ -1,0 +1,28 @@
+{
+  "name": "suga",
+  "logoURI": "http://suga.finance/Public/Home/js/index1/suga-100.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "NFT",
+      "nft",
+      "yield"
+    ],
+    "timestamp": "2020-10-15T00:00:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x857443c62c9fb90f60eb06c25e00eaa1597fafdf",
+      "name": "suga",
+      "symbol": "suga",
+      "decimals": 18,
+      "logoURI": "http://suga.finance/Public/Home/js/index1/suga-100.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
+
